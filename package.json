@@ -2,6 +2,7 @@
   "name": "alina-newlanding",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alinagroup.agency/newlanding",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
