@@ -147,7 +147,7 @@ const Form = () => {
       encType='multipart/form-data'
       id='CF5fdc1ef7b2d8b_1'
       data-form-id='CF5fdc1ef7b2d8b'
-      aria-label='Ayunda Form'
+      aria-label='Newlanding Form'
       data-target='#caldera_notices_1'
       data-template='#cfajax_CF5fdc1ef7b2d8b-tmpl'
       data-cfajax='CF5fdc1ef7b2d8b'
@@ -170,7 +170,7 @@ const Form = () => {
                 onChange={handlePhone}
                 placeholder='Nomor Whatsapp'
                 required=''
-                type='text'
+                type='number'
                 data-field='fld_7265355'
                 className='form-control'
                 id='fld_7265355_1'
